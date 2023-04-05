@@ -1,7 +1,6 @@
 ### Salve, salve pessoal! Eu sou Diogo Silas  🎈 
 
 - Desenvolvimento web: Aluno do Dev Quest
-- Aprendendo Frontend
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoSilas&count_private=true&show_icons=true&theme=tokyonight)
