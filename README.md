@@ -1,5 +1,4 @@
-## Salve, salve pessoal!
- <div>
+<div>
    <a href="https://github.com/DiogoSilas">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoSilas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSilas&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -13,7 +12,7 @@
  
  <br>
  
-  ### Para conteúdos sobre mim, me segue nas redes abaixo!
+  ### Redes Sociais
  
 <div> 
   <a href="https://instagram.com/diogosilas_ds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
