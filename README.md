@@ -1,3 +1,4 @@
+## Não há diginidade em ser um estudante medíocre
 <div>
    <a href="https://github.com/DiogoSilas">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoSilas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
