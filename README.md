@@ -1,7 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=193300&height=120&section=header"/>
+
 <div align="center">
    <h1>Não há dignidade em ser um estudante mediocre</h1>
-   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" target="_self">
-
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 <div align="center">
 
-   ### Skills
+   ### Main Skills
    <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" title="html5" />
    <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" title="css3" />
    <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
@@ -21,6 +21,12 @@
    <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" />
    <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma (software)" title="Figma" />
    <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" />
+
+   ### Studying or Next to be studiedt:
+   <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
+   <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Testes com Jest" title="Testes com Jest" />
+   <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" />
+   
 </div>
 
 #
@@ -30,3 +36,6 @@
    <a href="https://www.linkedin.com/in/diogosilasds/" targt="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"></a>
    <a href="https://www.instagram.com/diogosilas_ds/" targt="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" title="Instagram"></a>
 </div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=193300&height=120&section=footer"/>
