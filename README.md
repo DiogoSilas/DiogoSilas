@@ -35,6 +35,7 @@
    <a href="https://diogosilas.github.io/resumos-portfolio/" targt="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="WebSite" title="My Home"></a>
    <a href="https://www.linkedin.com/in/diogosilasds/" targt="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"></a>
    <a href="https://www.instagram.com/diogosilas_ds/" targt="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" title="Instagram"></a>
+   <a href = "mailto:diogosilascontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="diogosilascontato@gmail.com" title="diogosilascontato@gmail.com"></a>
 </div>
 
 
