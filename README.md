@@ -17,7 +17,6 @@
 
 
    ### Studying or Next to be studiedt:
-   <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
    <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Testes com Jest" title="Testes com Jest" />
    <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" />
 </div>
