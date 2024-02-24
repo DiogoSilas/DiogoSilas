@@ -7,13 +7,14 @@
 <div align="center">
 
    ### Main Skills
+   <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" />
    <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
    <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" />
-   <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" />
    <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma (software)" title="Figma" />
-   <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" />
-   <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" title="css3" />
-   <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" title="html5" />
+   <img width="35px" height="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" />
+   <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+   <img width="90px" height="35px" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2023/06/Obsidian_New_Logo.webp?fit=1920%2C789&ssl=1" alt="Obsidian" title="Obsidian" />
+
 
 
    ### Studying or Next to be studiedt:
